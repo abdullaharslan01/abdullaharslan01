@@ -1,6 +1,9 @@
+<img align="center" alt="Banner" width="1280" height="150" src="https://github.com/abdullaharslan01/abdullaharslan01/assets/125302932/c74de86c-4f90-4200-b0c4-f8f0d7d69df9">
+
+
 
 <h1 align=![cover](https://github.com/abdullaharslan01/abdullaharslan01/assets/125302932/940d8978-35dd-45d2-9112-552b1aad612f)
-"center">Hi 👋, I'm Abdullah</h1>
+<h1 "center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">A passionate data scientist and full stack flutter developer from Turkey</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
