@@ -1,4 +1,4 @@
-<img align="center" alt="Banner" width="1280" height="300" src="https://github.com/abdullaharslan01/abdullaharslan01/assets/125302932/6e97b7db-b214-4fec-824e-6a1a9cbf6bf7">
+<img align="center" alt="Banner" width="1280" height="350" src="https://github.com/abdullaharslan01/abdullaharslan01/assets/125302932/6e97b7db-b214-4fec-824e-6a1a9cbf6bf7">
 
 
 
