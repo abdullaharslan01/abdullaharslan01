@@ -13,7 +13,7 @@
 
 -‍ 🔬 I am working on [SciChat](https://github.com/abdullaharslan01/SciChat)
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **abdullaharslan1473@gmail.com**
 
