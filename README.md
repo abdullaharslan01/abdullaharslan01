@@ -11,7 +11,7 @@
 
 -‍ 🔬 I am working on [SaveFire](https://github.com/abdullaharslan01/SaveFire)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter & Swift**
 
 - 📫 How to reach me **abdullaharslan1473@gmail.com**
 
