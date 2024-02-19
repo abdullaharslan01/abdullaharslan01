@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullaharslan01&label=Profile%20views&color=0e75b6&style=plastic" alt="abdullaharslan01" /> </p>
 
-- 🌱 I’m currently learning **IOS Development with Swift t**
+- 🌱 I’m currently learning **IOS Development**
 
 - 📫 How to reach me **abdullaharslan1473@gmail.com**
 
