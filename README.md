@@ -10,8 +10,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullaharslan01&label=Profile%20views&color=0e75b6&style=plastic" alt="abdullaharslan01" /> </p>
 
 - 🧑‍💻 I have been honing  my **IOS Development** skills.
-- 📱 I can also develop cross-platform applications with **Flutter**. 
-
 
 - 📫 How to reach me **abdullaharslan1473@gmail.com**
 
