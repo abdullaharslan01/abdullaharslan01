@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/user-attachments/assets/90a0a9ae-9c8d-4ddf-8a0f-1d7bd1d27926"  />
+  <img height="280" width="1024" src="https://github.com/user-attachments/assets/90a0a9ae-9c8d-4ddf-8a0f-1d7bd1d27926"  />
 </div>
 
 ###
@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/abdullaharslan01/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:abdullaharslan1473@gmail.com" target="_blank">
+  <a href="mailto:abdullaharslan1473@gmail.com?subject=Konu Başlığı&body=Merhaba, size bu e-postayı gönderiyorum." target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://medium.com/@abdullaharslan01" target="_blank">
