@@ -1,31 +1,58 @@
-<div align="center">
-  <img height="280" width="1024" src="https://github.com/user-attachments/assets/90a0a9ae-9c8d-4ddf-8a0f-1d7bd1d27926"  />
-</div>
+# 🚀 Abdullah Arslan | iOS Developer
 
-###
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a48cea98-27ac-4c94-9123-fbc2df02ec10" width="100%" />
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abdullaharslan01/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
   </a>
-  <a href="mailto:abdullaharslan1473@gmail.com?subject=Konu Başlığı&body=Merhaba, size bu e-postayı gönderiyorum." target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:abdullaharslan1473@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
   </a>
-  <a href="https://medium.com/@abdullaharslan01" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  <a href="https://medium.com/@abdullaharslan01">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="30"/>
+  </a>
+  <a href="https://abdullaharslan.com.tr/about-me/">
+    <img src="https://img.shields.io/badge/Personal_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" height="30"/>
   </a>
 </div>
 
-###
+## 👋 Welcome!
 
-<h1 align="center">Selam / Hi there 👋</h1>
+Hi, I’m **Abdullah Arslan**, a **driven iOS Developer** with a strong passion for crafting seamless and engaging mobile experiences. With **1.5+ years of hands-on experience** in UIKit and growing expertise in SwiftUI, I specialize in developing intuitive, high-performance iOS applications.
 
-###
+> **"Learn, Experience, and Share"** — this isn’t just my motto, it’s my way of life.
 
-<h3 align="left">👩‍💻  About Me</h3>
+Guided by this philosophy, I continuously seek growth, embrace challenges, and build impactful mobile solutions that solve real user problems. I love pushing boundaries with Apple’s latest technologies while keeping user experience at the heart of everything I do.
 
-###
+I actively share my insights through [Medium articles](https://medium.com/@abdullaharslan01) and contribute to the iOS community. Whether it’s open-source, collaboration, or mentorship, I’m always open to new connections and meaningful work.
 
-<p align="left">As an iOS developer, I am dedicated to crafting exceptional mobile experiences. Driven by a deep passion for iOS technologies and a commitment to creating impactful applications, I continuously explore new avenues to enhance my skills. I believe in a collaborative approach, sharing knowledge, and fostering innovation within the mobile development community.<br><br>My expertise encompasses mobile application development, designing intuitive user interfaces, and managing projects efficiently. I am proficient in Swift programming, UI/UX design, and agile methodologies, ensuring that every project is delivered with quality and innovation. My goal is to create mobile solutions that not only meet user needs but also make a positive impact on the world.</p>
+---
 
-###
+## 🧰 Tech Stack & Tools
+
+Here’s a look at the technologies and tools I love working with:
+
+| 🧩 Area              | 🛠️ Tools & Technologies                                                                 |
+|----------------------|-------------------------------------------------------------------------------------------|
+| 🚀 **Languages**     | Swift                                                                                     |
+| 📱 **iOS Frameworks**| SwiftUI, UIKit, SwiftData, MapKit, Concurrency (async/await), WidgetKit                   |
+| 🧱 **Architecture**  | MVVM, Clean Architecture                                                                  |
+| ☁️ **Backend & DB**  | Firebase, REST APIs, UserDefaults                                       |
+| ⚙️ **Tools**         | Git, GitHub, Figma                                                        |
+| 📐 **Design Focus**  | Apple Human Interface Guidelines                          |
+
+---
+
+
+
+## 🤝 Let’s Connect!
+
+I'm always open to:
+- 🚀 Collaborating on exciting iOS projects  
+- 💬 Discussing Swift, SwiftUI, or app architecture
+- 📚 I regularly publish iOS dev insights and tips on [Medium](https://medium.com/@abdullaharslan01).
+- ✨ Sharing ideas, learning together, and pushing the limits of mobile dev
+
