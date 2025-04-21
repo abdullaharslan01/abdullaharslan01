@@ -21,7 +21,7 @@
 
 ## 👋 Welcome!
 
-Hi, I’m **Abdullah Arslan**, a **driven iOS Developer** with a strong passion for crafting seamless and engaging mobile experiences. With **1.5+ years of hands-on experience** in UIKit and growing expertise in SwiftUI, I specialize in developing intuitive, high-performance iOS applications.
+Hi, I’m **Abdullah Arslan**, a **driven iOS Developer** with a strong passion for crafting seamless and engaging mobile experiences. With **1.5+ years of hands-on experience** in **UIKit** and growing expertise in **SwiftUI**, I specialize in developing intuitive, high-performance iOS applications.
 
 > **"Learn, Experience, and Share"** — this isn’t just my motto, it’s my way of life.
 
