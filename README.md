@@ -14,7 +14,7 @@
   <a href="https://medium.com/@abdullaharslan01">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="30"/>
   </a>
-  <a href="https://abdullaharslan.com.tr/about-me/">
+  <a href="https://abdullaharslan.com.tr">
     <img src="https://img.shields.io/badge/Personal_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" height="30"/>
   </a>
 </div>
