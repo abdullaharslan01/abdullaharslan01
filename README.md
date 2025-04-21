@@ -31,22 +31,6 @@ I actively share my insights through [Medium articles](https://medium.com/@abdul
 
 ---
 
-## 🧰 Tech Stack & Tools
-
-Here’s a look at the technologies and tools I love working with:
-
-| 🧩 Area              | 🛠️ Tools & Technologies                                                                 |
-|----------------------|-------------------------------------------------------------------------------------------|
-| 🚀 **Languages**     | Swift                                                                                     |
-| 📱 **iOS Frameworks**| SwiftUI, UIKit, SwiftData, MapKit, Concurrency (async/await), WidgetKit                   |
-| 🧱 **Architecture**  | MVVM, Clean Architecture                                                                  |
-| ☁️ **Backend & DB**  | Firebase, REST APIs, UserDefaults                                       |
-| ⚙️ **Tools**         | Git, GitHub, Figma                                                        |
-| 📐 **Design Focus**  | Apple Human Interface Guidelines                          |
-
----
-
-
 
 ## 🤝 Let’s Connect!
 
