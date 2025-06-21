@@ -1,8 +1,7 @@
 # 🚀 Abdullah Arslan | iOS Developer
+![LinkdenIn](https://github.com/user-attachments/assets/555ae6ca-15bf-4869-8c47-1da5e898bc96)
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/a48cea98-27ac-4c94-9123-fbc2df02ec10" width="100%" />
-</div>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abdullaharslan01/" target="_blank">
