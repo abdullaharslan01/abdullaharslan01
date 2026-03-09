@@ -1,8 +1,6 @@
 # 🚀 Abdullah Arslan | iOS Developer
 ![LinkdenIn](https://github.com/user-attachments/assets/555ae6ca-15bf-4869-8c47-1da5e898bc96)
 
-
-
 <div align="center">
   <a href="https://www.linkedin.com/in/abdullaharslan01/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
@@ -18,24 +16,31 @@
   </a>
 </div>
 
+---
+
 ## 👋 Welcome!
 
-Hi, I’m **Abdullah Arslan**, a **driven iOS Developer** with a strong passion for crafting seamless and engaging mobile experiences. With **2 years of hands-on experience** in **UIKit** and growing expertise in **SwiftUI**, I specialize in developing intuitive, high-performance iOS applications.
+Hi, I’m **Abdullah Arslan**, a **passionate iOS Developer** with **over 3 years of experience** building mobile applications. I enjoy solving complex problems and designing scalable, user-focused mobile solutions.
+
+Beyond traditional mobile development, I actively explore how **Generative AI (GenAI)** can be integrated into applications to create **smarter and more efficient systems**. I have also gained experience in areas such as **cybersecurity, data science, and cross-platform development**, which helps me approach technical challenges from a broader engineering perspective.
+
+I primarily work with **UIKit** and **SwiftUI**, focusing on building **high-performance, clean architecture-based iOS applications** that deliver seamless user experiences.
 
 > **"Learn, Experience, and Share"** — this isn’t just my motto, it’s my way of life.
 
-Guided by this philosophy, I continuously seek growth, embrace challenges, and build impactful mobile solutions that solve real user problems. I love pushing boundaries with Apple’s latest technologies while keeping user experience at the heart of everything I do.
+Guided by this philosophy, I continuously improve my skills, explore emerging technologies, and share what I learn with the developer community.
 
-I actively share my insights through [Medium articles](https://medium.com/@abdullaharslan01) and contribute to the iOS community. Whether it’s open-source, collaboration, or mentorship, I’m always open to new connections and meaningful work.
+I actively publish technical articles on **Medium** and enjoy contributing to the iOS ecosystem through knowledge sharing, collaboration, and community engagement.
 
 ---
-
 
 ## 🤝 Let’s Connect!
 
 I'm always open to:
-- 🚀 Collaborating on exciting iOS projects  
-- 💬 Discussing Swift, SwiftUI, or app architecture
-- 📚 I regularly publish iOS dev insights and tips on [Medium](https://medium.com/@abdullaharslan01).
-- ✨ Sharing ideas, learning together, and pushing the limits of mobile dev
 
+- 🚀 Collaborating on exciting **iOS projects**
+- 💬 Discussing **Swift, SwiftUI, iOS architecture, and GenAI integrations**
+- 📚 Sharing insights through my **Medium articles**
+- ✨ Learning, building, and pushing the limits of **mobile development**
+
+If you’re working on something interesting or just want to connect — feel free to reach out!
