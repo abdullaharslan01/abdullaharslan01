@@ -34,6 +34,24 @@ I actively publish technical articles on **Medium** and enjoy contributing to th
 
 ---
 
+
+## 🚀 Featured Projects
+
+### ✉️ [Mail Asistanım (AI Email Assistant)](https://mailasistanim.com/)
+
+<img src="https://mailasistanim.com/assets/logo.jpg" alt="Mail Asistanım Logo" width="100"/>
+
+**Mail Asistanım** is a smart, AI-powered personal email assistant designed to help you manage your inbox effortlessly.
+
+- **Web & Telegram Integration:** Write and reply to emails seamlessly from a beautifully designed web dashboard or via a conversational Telegram bot.
+- **Smart Summaries:** Automatically analyzes your incoming emails and provides concise summaries for important ones.
+- **AI-Powered Replies:** Generates context-aware replies with customizable tone, length, and style.
+- **Categorization:** Automatically categorizes emails (e.g., Urgent, Partnerships, System Alerts).
+
+🔗 **[Visit Mail Asistanım](https://mailasistanim.com/)**
+
+---
+
 ## 🤝 Let’s Connect!
 
 I'm always open to:
