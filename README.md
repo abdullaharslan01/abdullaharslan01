@@ -1,64 +1,53 @@
-# 🚀 Abdullah Arslan | iOS Developer
-![LinkdenIn](https://github.com/user-attachments/assets/555ae6ca-15bf-4869-8c47-1da5e898bc96)
+# Merhaba, ben Abdullah 👋
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/abdullaharslan01/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
-  </a>
-  <a href="mailto:abdullaharslan1473@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
-  </a>
-  <a href="https://medium.com/@abdullaharslan01">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="30"/>
-  </a>
-  <a href="https://abdullaharslan.com.tr">
-    <img src="https://img.shields.io/badge/Personal_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" height="30"/>
-  </a>
-</div>
+**iOS Developer · AI & Automation** — Ankara
+
+Üç yılı aşkın süredir iOS uygulamaları geliştiriyorum. Şu an [Bulbi](https://bulbi.co)'de çalışıyorum: iOS uygulamasını SwiftUI ile sıfırdan yazdım, Android uygulamasını geliştiriyorum; şirketin yapay zekâ, otomasyon ve iç operasyon sistemlerini de ben kuruyorum. Bunların dışında kendi ürünlerimi ve müşteri projelerimi geliştiriyorum.
+
+Daha önce Appcent ve Invio Bilişim'de iOS stajı yaptım. Çukurova Üniversitesi Bilgisayar Mühendisliği mezunuyum.
+
+> “Öğren, Deneyimle ve Paylaş.”
+
+🌐 [abdullaharslan.com.tr](https://abdullaharslan.com.tr) — tüm projeler ekran görüntüleriyle burada.
 
 ---
 
-## 👋 Welcome!
+## Öne çıkan projeler
 
-Hi, I’m **Abdullah Arslan**, a **passionate iOS Developer** with **over 3 years of experience** building mobile applications. I enjoy solving complex problems and designing scalable, user-focused mobile solutions.
+### İş
+- **[Bulbi](https://abdullaharslan.com.tr/project/bulbi-ios)** — Ailelerin 0–12 yaş çocukları için etkinlik bulduğu uygulama. iOS uygulamasını SwiftUI ile sıfırdan yazdım ve App Store sürecini yürütüyorum; Android uygulamasını da geliştiriyorum.
+- **[Bulbi iç sistemleri](https://abdullaharslan.com.tr/project/ai-crm-system)** — Yapay zekâ destekli CRM ve İK, etkinliklerin WhatsApp'tan girildiği n8n botu, test rehberi ve Locust ile yük testi altyapısı.
 
-Beyond traditional mobile development, I actively explore how **Generative AI (GenAI)** can be integrated into applications to create **smarter and more efficient systems**. I have also gained experience in areas such as **cybersecurity, data science, and cross-platform development**, which helps me approach technical challenges from a broader engineering perspective.
+### Kendi ürünlerim
+- **[Tulpar](https://abdullaharslan.com.tr/project/tulpar)** — Kendi Gmail hesaplarınızla çalışan e-posta kampanya ve takip aracı: kişiler, mail akışları, onaylı gönderim, yanıt takibi. Web, iPhone ve Mac'te.
+- **[Mail Asistanım](https://mailasistanim.com)** — Gmail için Türkçe yapay zekâ e-posta asistanı; maili özetler, önemine göre ayırır, yanıtı sizin üslubunuzda hazırlar.
 
-I primarily work with **UIKit** and **SwiftUI**, focusing on building **high-performance, clean architecture-based iOS applications** that deliver seamless user experiences.
+### Müşteri projeleri
+- **[Alparslan Ceylan Sürücü Kursu](https://alparslanceylansurucukursu.com.tr)** — 3B sürüş sahneli web sitesi, tarayıcıda oynanan direksiyon sınavı ve yönetim paneli. Tasarımdan yayına tek başıma geliştirdim.
+- **[ECOTECH](https://ecotechturkey.com/)** — Tuzla'daki gemi makineleri bakım ve yedek parça firması için kurumsal site.
 
-> **"Learn, Experience, and Share"** — this isn’t just my motto, it’s my way of life.
-
-Guided by this philosophy, I continuously improve my skills, explore emerging technologies, and share what I learn with the developer community.
-
-I actively publish technical articles on **Medium** and enjoy contributing to the iOS ecosystem through knowledge sharing, collaboration, and community engagement.
-
----
-
-
-## 🚀 Featured Projects
-
-### ✉️ [Mail Asistanım (AI Email Assistant)](https://mailasistanim.com/)
-
-<img src="https://mailasistanim.com/assets/logo.jpg" alt="Mail Asistanım Logo" width="100"/>
-
-**Mail Asistanım** is a smart, AI-powered personal email assistant designed to help you manage your inbox effortlessly.
-
-- **Web & Telegram Integration:** Write and reply to emails seamlessly from a beautifully designed web dashboard or via a conversational Telegram bot.
-- **Smart Summaries:** Automatically analyzes your incoming emails and provides concise summaries for important ones.
-- **AI-Powered Replies:** Generates context-aware replies with customizable tone, length, and style.
-- **Categorization:** Automatically categorizes emails (e.g., Urgent, Partnerships, System Alerts).
-
-🔗 **[Visit Mail Asistanım](https://mailasistanim.com/)**
+### iOS
+- **[Disvigo](https://github.com/abdullaharslan01/Disvigo)** — Türkiye'de gezilecek yerleri, yemekleri ve rotaları Gemini ile öneren gezi uygulaması. Bitirme projem.
+- **[Avoka](https://abdullaharslan.com.tr/project/avoka-calorie-tracker)** — Invio stajında geliştirdiğim kalori takibi: kamera yemeği tanıyor, barkod/QR ile paketli ürün okunuyor.
+- **SwiftUI / UIKit klonları** — Arayüz ve mimari pratiği için: [ObiletClone](https://github.com/abdullaharslan01/ObiletClone), [AirbnbClone](https://github.com/abdullaharslan01/AirbnbClone), [BlaBlaCarClone](https://github.com/abdullaharslan01/BlaBlaCarClone), [BumbleClone](https://github.com/abdullaharslan01/BumbleClone), [GitHubFollowersApp](https://github.com/abdullaharslan01/GitHubFollowersApp).
 
 ---
 
-## 🤝 Let’s Connect!
+## Kullandığım teknolojiler
 
-I'm always open to:
+- **iOS:** Swift, SwiftUI, UIKit, MapKit, Firebase
+- **Yapay zekâ:** OpenAI, Gemini, LangChain, LangGraph, RAG
+- **Backend:** Python, FastAPI, PostgreSQL, Redis, PHP
+- **Web:** TypeScript, Next.js, Vue, Three.js
+- **Otomasyon ve altyapı:** n8n, Docker, AWS, Cloudflare, Gmail ve Telegram API'leri
 
-- 🚀 Collaborating on exciting **iOS projects**
-- 💬 Discussing **Swift, SwiftUI, iOS architecture, and GenAI integrations**
-- 📚 Sharing insights through my **Medium articles**
-- ✨ Learning, building, and pushing the limits of **mobile development**
+---
 
-If you’re working on something interesting or just want to connect — feel free to reach out!
+## İletişim
+
+[![Website](https://img.shields.io/badge/Website-abdullaharslan.com.tr-111?style=flat-square&logo=google-chrome&logoColor=white)](https://abdullaharslan.com.tr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdullaharslan01-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullaharslan01/)
+[![Medium](https://img.shields.io/badge/Medium-@abdullaharslan01-000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@abdullaharslan01)
+[![Email](https://img.shields.io/badge/E--posta-abdullaharslandev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdullaharslandev@gmail.com)
+
+Bir proje ya da iş birliği için yazabilir veya [30 dakikalık görüşme](https://app.cal.com/abdullaharslan01/30min) planlayabilirsiniz.
